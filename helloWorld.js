@@ -4,6 +4,7 @@ const helloWorld = function() {
 
 console.log(helloWorld());
 
+
 console.log("Hello again");
 console.log("potatoes");
 
@@ -12,3 +13,5 @@ const goodMorning = function() {
 };
 
 console.log(goodMorning);
+console.log("Almost there!");
+
